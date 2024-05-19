@@ -1,0 +1,23 @@
+{
+  "name": "hysort",
+  "version": "0.1.0",
+  "description": "Utilities for Natural Comparing and Sorting in TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanpero/Hysort.git"
+  },
+  "keywords": [
+    "Natural",
+    "Sorting"
+  ],
+  "author": "Camille",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tanpero/Hysort/issues"
+  },
+  "homepage": "https://github.com/tanpero/Hysort#readme"
+}
