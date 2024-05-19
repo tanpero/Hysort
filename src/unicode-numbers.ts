@@ -1,5 +1,5 @@
 
-export const numeric_hex = [
+export const number_codepoints = [
     0xB2,
     0xB3,
     0xB9,
